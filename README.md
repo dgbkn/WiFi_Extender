@@ -7,6 +7,7 @@ Systemless apply this module to prevent from OTA updates. As of now Whyred, Lave
 
 ### **Changelog**
 V1.2 Added Lavender Support(Redmi Note 7)
+
 V1.1 Initial Release
 
 more devices to be added soon...
